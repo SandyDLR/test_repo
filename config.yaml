@@ -14,7 +14,7 @@ git:
 
   - filter_type: dir
     file_format: STRUCTURED_JSON
-    source_file_extension: JSON
+    source_file_extension: json
     source_language: en
     source_file_dir: source/json_files
     translation_files_expression: 'translations/json_files/<lang>.json'
