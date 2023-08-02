@@ -1,13 +1,11 @@
 git:
 filters:
-#Syncing a Single File
 - filter_type: file
   file_format: HTML
   source_language: en
   source_file: source/html_files/example.html
   translation_files_expression: 'translations/html_files/example_<lang>.html'
 
-#Syncing Multiple Files of a Single File Type 
 - filter_type: dir
   file_format: STRUCTURE_JSON
   source_file_extension: JSON
@@ -15,7 +13,6 @@ filters:
   source_file_dir: source/json_files
   translation_files_expression: 'translations/json_files/<lang>.json'
 
-#Syncing Multiple Files using Dynamic filtes
 - filter_type: dynamic
   file_format: PHP
   source_language: en
