@@ -1,0 +1,400 @@
+#  This file is a PO Template file.
+# 
+#  "msgid"s here are often extracted from source code.
+#  Add new messages manually only if they're dynamic
+#  messages that can't be statically extracted.
+# 
+#  Run "mix gettext.extract" to bring this file up to
+#  date. Leave "msgstr"s empty as changing them here has no
+#  effect: edit them in PO (.po) files instead.
+# 
+# Translators:
+# Sandy De La Rosa <sandy@transifex.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Sandy De La Rosa <sandy@transifex.com>, 2023\n"
+"Language-Team: French (https://app.transifex.com/qatest/teams/171654/fr/)\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "_pagination"
+msgstr "_pagination"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "accountId"
+msgstr "accountId"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "accountNumber"
+msgstr "accountNumber"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "availableAt"
+msgstr "availableAt"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "benchmarkData"
+msgstr "benchmarkData"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "benchmarkUnits"
+msgstr "benchmarkUnits"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "benchmarkUsage"
+msgstr "benchmarkUsage"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "benchmarkUsageSets"
+msgstr "benchmarkUsageSets"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "benchmarkUsages"
+msgstr "benchmarkUsages"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "completed"
+msgstr "completed"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "completedAt"
+msgstr "completedAt"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "content"
+msgstr "content"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "createdAt"
+msgstr "createdAt"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "creatorEmail"
+msgstr "creatorEmail"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "customerCode"
+msgstr "customerCode"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "customerName"
+msgstr "customerName"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "detail"
+msgstr "detail"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "discount"
+msgstr "discount"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "enabled"
+msgstr "enabled"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "errors"
+msgstr "errors"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "expiresAt"
+msgstr "expiresAt"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "file"
+msgstr "file"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "filename"
+msgstr "filename"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "first"
+msgstr "first"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "format"
+msgstr "format"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "fulfillmentRequestBatches"
+msgstr "fulfillmentRequestBatches"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "fulfillmentUnits"
+msgstr "fulfillmentUnits"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "group"
+msgstr "group"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "id"
+msgstr "id"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "insertedAt"
+msgstr "insertedAt"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "key"
+msgstr "key"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "last"
+msgstr "last"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "month"
+msgstr "month"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "name"
+msgstr "name"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "offers"
+msgstr "offers"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "page"
+msgstr "page"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "perPage"
+msgstr "perPage"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "pointer"
+msgstr "pointer"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "properties"
+msgstr "properties"
+
+#. Search query
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "q"
+msgstr "q"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "requestId"
+msgstr "requestId"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "requestTime"
+msgstr "requestTime"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "requests"
+msgstr "requests"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "secret"
+msgstr "secret"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "sepaRequired"
+msgstr "sepaRequired"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "settings"
+msgstr "settings"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "source"
+msgstr "source"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "sourceUnit"
+msgstr "sourceUnit"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "stateDate"
+msgstr "stateDate"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "status"
+msgstr "status"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "statusDetails"
+msgstr "statusDetails"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "steps"
+msgstr "steps"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "subscriptionId"
+msgstr "subscriptionId"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "subscriptionNumber"
+msgstr "subscriptionNumber"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "tag"
+msgstr "tag"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "title"
+msgstr "title"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "total"
+msgstr "total"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "type"
+msgstr "type"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "units"
+msgstr "units"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "updatedAt"
+msgstr "updatedAt"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "value"
+msgstr "value"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "year"
+msgstr "year"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "zuoraData"
+msgstr "zuoraData"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "zuoraUnit"
+msgstr "zuoraUnit"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "firstUnusedCustomerCode"
+msgstr "firstUnusedCustomerCode"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "numberOfUnusedCustomerCodes"
+msgstr "numberOfUnusedCustomerCodes"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "rangeFrom"
+msgstr "rangeFrom"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "rangeTo"
+msgstr "rangeTo"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "series"
+msgstr "series"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "_format"
+msgstr "_format"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "description"
+msgstr "description"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "filter"
+msgstr "filter"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "filters"
+msgstr "filters"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "slug"
+msgstr "slug"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "values"
+msgstr "values"
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "discountEndDate"
+msgstr "discountEndDate"
