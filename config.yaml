@@ -1,13 +1,13 @@
 git:
   filters:
-  - filter_type: file
-    file_format: HTML
-    source_language: en
-    source_file: source/html_files/example.html
-    translation_files_expression: 'translations/html_files/example_<lang>.html
-
-  - filter_type: dynamic
-    file_format: PO
-    source_language: en
-    source_files_expression: source/<file>.pot
-    translation_files_expression: 'translations/<file>.po'
+    - filter_type: file
+      file_format: HTML
+      source_language: en
+      source_file: source/html_files/example.html
+      translation_files_expression: 'translations/html_files/example_<lang>.html
+  
+    - filter_type: dynamic
+      file_format: PO
+      source_language: en
+      source_files_expression: source/<file>.pot
+      translation_files_expression: 'translations/<file>.po'
