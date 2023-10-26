@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Sandy De La Rosa <sandy@transifex.com>, 2023\n"
-"Language-Team: French (https://app.transifex.com/qatest/teams/171654/fr/)\n"
+"Language-Team: French (https://app.transifex.com/sandydlr/teams/178244/fr/)\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
