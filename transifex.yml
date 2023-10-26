@@ -1,0 +1,7 @@
+filters:
+  - filter_type: dir
+    file_format: KEYVALUEJSON
+    source_file_extension: json
+    source_language: en
+    source_file_dir: src/translations/locales/
+    translation_files_expression: 'src/translations/locales/<lang>/'
