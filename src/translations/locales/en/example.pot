@@ -17,16 +17,25 @@ msgid "_pagination"
 msgstr ""
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
-msgid "accountId"
-msgstr ""
+msgid "accountId."
+msgstr "id de la cuenta."
+
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
 msgid "accountNumber"
-msgstr ""
+msgstr "ID de la cuenta"
 
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
 msgid "availableAt"
+msgstr ""
+
+msgid "accountNumber2323"
+msgstr ""
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "availableAt23434"
 msgstr ""
 
 
