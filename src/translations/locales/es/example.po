@@ -25,8 +25,8 @@ msgstr "_paginación"
 
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
-msgid "accountId"
-msgstr "accountId"
+msgid "accountId."
+msgstr ""
 
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
@@ -37,3 +37,11 @@ msgstr "número de cuenta"
 #, elixir-autogen, elixir-format
 msgid "availableAt"
 msgstr "disponibleEn"
+
+msgid "accountNumber2323"
+msgstr ""
+
+#: lib/admin/api/spec.ex
+#, elixir-autogen, elixir-format
+msgid "availableAt23434"
+msgstr ""
