@@ -18,12 +18,12 @@ msgstr ""
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
 msgid "accountId."
-msgstr "id de la cuenta."
+msgstr ""
 
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
 msgid "accountNumber"
-msgstr "ID de la cuenta"
+msgstr ""
 
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
