@@ -8,7 +8,6 @@ filters:
 
   - filter_type: file
     file_format: PO
-    source_file_extension: pot
     source_language: en
     source_file: 'src/translations/locales/en/example.pot'
     translation_files_expression: 'src/translations/locales/<lang>/example.po'
