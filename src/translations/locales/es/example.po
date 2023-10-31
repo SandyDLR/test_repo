@@ -39,7 +39,7 @@ msgid "availableAt"
 msgstr "disponibleEn"
 
 msgid "accountNumber2323"
-msgstr ""
+msgstr "NúmeroDeCuenta2323"
 
 #: lib/admin/api/spec.ex
 #, elixir-autogen, elixir-format
