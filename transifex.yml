@@ -5,3 +5,9 @@ filters:
     source_language: en
     source_file_dir: src/translations/locales/en/
     translation_files_expression: 'src/translations/locales/<lang>/'
+    settings:
+    language_mapping:
+    nl_NL: nl-NL
+    tr_TR: tr-TR
+    zh_CN: zh-CN
+    fr_FR: fr-FR
