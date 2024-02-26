@@ -1,13 +1,6 @@
 filters:
-  - filter_type: dir
+  - filter_type: file
     file_format: KEYVALUEJSON
-    source_file_extension: json
+    source_file: src/pages/branded-login/assets/lang/en/translations.json
     source_language: en
-    source_file_dir: src/translations/locales/en/
-    translation_files_expression: 'src/translations/locales/<lang>/'
-settings:
-  language_mapping:
-    nl_NL: nl-NL
-    tr_TR: tr-TR
-    zh_CN: zh-CN
-    fr_FR: fr-FR
+    translation_files_expression: "src/pages/branded-login/assets/lang/<lang>/"
