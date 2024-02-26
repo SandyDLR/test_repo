@@ -1,13 +1,25 @@
 {
+
     "windowTitle": "Employee Login",
-    "formTitle": " Login",
-    "userID": "Username",
-    "password": "Password",
-    "login": "Log In",
-    "forgotPassword": "Forgot your username or password?",
-    "copyright_info": "Copyright © CustomName",
-    "insertCopyright": "Copyright",
-    "termsOfUse": "Terms of Use",
-    "privacy": "Privacy policy",
+    
+    "formTitle": " Σύνδεση",
+    
+    "userID": "όνομα χρήστη",
+    
+    "password": "Κωδικός πρόσβασης",
+    
+    "login": "Σύνδεση",
+    
+    "forgotPassword": "Ξεχάσατε τον κωδικό πρόσβασής σας;",
+    
+    "copyright_info": "Πνευματικά δικαιώματα © CustomName",
+    
+    "insertCopyright": "Πνευματικά δικαιώματα",
+    
+    "termsOfUse": "Όροι χρήσης",
+    
+    "privacy": "Πολιτική απορρήτου",
+    
     "cookies": "Cookies"
-}
+    
+    }
