@@ -4,3 +4,107 @@ filters:
     source_file: src/pages/branded-login/assets/lang/en/translations.json
     source_language: en
     translation_files_expression: "src/pages/branded-login/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/download/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/download/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/dropbag/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/dropbag/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/employee-portal/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/employee-portal/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/event/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/event/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/forms/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/forms/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/google-login/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/google-login/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/linked/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/linked/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/login/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/login/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/login-live/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/login-live/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/loginv2/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/loginv2/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/ms-consent/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/ms-consent/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/officeonlinev2/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/officeonlinev2/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/outlook/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/outlook/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/payme/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/payme/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/plan/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/plan/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/re-captcha/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/re-captcha/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/sso/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/sso/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/support/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/support/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/virus/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/virus/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: src/pages/zip/assets/lang/en/translations.json
+    source_language: en
+    translation_files_expression: "src/pages/zip/assets/lang/<lang>/"
+settings:
+  pr_branch_name: transifex_<br_unique_id>
+  language_mapping:
+    de_CH: ch
