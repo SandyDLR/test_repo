@@ -1,7 +1,7 @@
 {
     "windowTitle": "Employee Login",
     "formTitle": " Login",
-    "userID": "Username",
+    "userID": "",
     "password": "Password",
     "login": "Log In",
     "forgotPassword": "Forgot your username or password?",
