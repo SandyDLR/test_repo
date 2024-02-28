@@ -1,7 +1,7 @@
 {
     "windowTitle": "Employee Login",
     "formTitle": " Σύνδεση",
-    "userID": "όνομα χρήστη",
+    "userID": "",
     "password": "Κωδικός πρόσβασης",
     "login": "Σύνδεση",
     "forgotPassword": "Ξεχάσατε τον κωδικό πρόσβασής σας;",
