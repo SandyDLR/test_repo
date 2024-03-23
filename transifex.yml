@@ -104,6 +104,12 @@ filters:
     source_file: src/pages/zip/assets/lang/en/translations.json
     source_language: en
     translation_files_expression: "src/pages/zip/assets/lang/<lang>/"
+  - filter_type: file
+    file_format: ANDROID
+    source_file: android-rider-v2.xml
+    source_language: en
+    translation_files_expression: "android-rider-v2_<lang>.xml/"
+
 settings:
   pr_branch_name: transifex_<br_unique_id>
   language_mapping:

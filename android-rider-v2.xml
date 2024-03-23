@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+<string name="localization_1">&</string>
+<!-- <string name="localization_2">werew < e rew</string>-->
+<string name="localization_3">></string>
+<string name="localization_4">"</string>
+<string name="localization_5">'</string>
+<string name="localization_6">@</string>
+<string name="localization_7">?</string>
+<string name="localization_8">\</string>
+
+<string name="localization_9">&amp;</string>
+<string name="localization_10">&lt;</string>
+<string name="localization_11">&gt;</string>
+<string name="localization_12">\"</string>
+<string name="localization_13">\'</string>
+<string name="localization_14">\@</string>
+<string name="localization_15">\?</string>
+<string name="localization_16">\\</string>
+<string name="localization_17">\n</string>
+</resources>
