@@ -1,0 +1,13 @@
+{
+    "windowTitle": "Mitarbeiter-Login",
+    "formTitle": " Anmeldung",
+    "userID": "Benutzername",
+    "password": "Passwort",
+    "login": "Einloggen",
+    "forgotPassword": "Haben Sie Ihren Benutzernamen oder Ihr Passwort vergessen?",
+    "copyright_info": "Copyright © CustomName",
+    "insertCopyright": "Urheberrecht",
+    "termsOfUse": "Nutzungsbedingungen",
+    "privacy": "Datenschutzbestimmungen",
+    "cookies": "Cookies"
+}
