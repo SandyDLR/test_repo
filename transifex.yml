@@ -1,6 +1,6 @@
 filters:
   - filter_type: file
-    file_format: KEYVALUEJSON
-    source_file: src/translations.json
+    file_format: FILELESS
+    source_file: src/test-errors.xlf
     source_language: en
-    translation_files_expression: "translation/translations_<lang>.json"
+    translation_files_expression: "translation/test-errors_<lang>.xlf"
