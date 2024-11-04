@@ -1,0 +1,15 @@
+{
+    "windowTitle": "Acceso de empleados",
+    "formTitle": " Inicio de sesión",
+    "userID": "Nombre de usuario",
+    "password": "Contraseña",
+    "login": "Iniciar sesión",
+    "forgotPassword": "¿Ha olvidado su nombre de usuario o contraseña?",
+    "copyright_info": "Copyright © CustomName",
+    "insertCopyright": "Copyright",
+    "termsOfUse": "Condiciones de uso",
+    "privacy": "Política de privacidad",
+    "cookies": "Cookies",
+    "cookies2": "Cookies2",
+    "cookies3": "Cookies3algo"
+}
