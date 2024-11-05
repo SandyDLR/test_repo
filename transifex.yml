@@ -11,8 +11,8 @@ filters:
     source_file_dir: source/example.json
     translation_files_expression: 'translations/example_<lang>.json'
   - filter_type: file
-  file_format: PO
-  source_file_extension: .po
-  source_language: en
-  source_file_dir: source/example.po
-  translation_files_expression: 'translations/example_<lang>.po'
+    file_format: PO
+    source_file_extension: .po
+    source_language: en
+    source_file_dir: source/example.po
+    translation_files_expression: 'translations/example_<lang>.po'
