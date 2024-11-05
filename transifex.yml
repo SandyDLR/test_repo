@@ -6,13 +6,11 @@ filters:
     translation_files_expression: "translation/example_<lang>.html"
   - filter_type: file
     file_format: STRUCTURED_JSON
-    source_file_extension: .json
+    source_file: source/example.json
     source_language: en
-    source_file_dir: source/example.json
-    translation_files_expression: 'translations/example_<lang>.json'
+    translation_files_expression: "translation/example_<lang>.json"
   - filter_type: file
     file_format: PO
-    source_file_extension: .po
+    source_file: source/example.po
     source_language: en
-    source_file_dir: source/example.po
-    translation_files_expression: 'translations/example_<lang>.po'
+    translation_files_expression: "translation/example_<lang>.po"
