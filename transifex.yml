@@ -1,6 +1,6 @@
 filters:
   - filter_type: dynamic
     file_format: YML
-    source_language: es
+    source_language: es_419
     source_files_expression: 'packs/benefit/<dir>/es-co.yml'
     translation_files_expression: 'packs/benefit/<dir>/<lang>-co.yml'
