@@ -5,6 +5,6 @@ filters:
     source_files_expression: 'packs/benefit/<dir>/es-co.yml'
     translation_files_expression: 'packs/benefit/<dir>/<lang>-co.yml'
 
-Settings:
+settings:
   language_mapping:
     es_CO: es-co
