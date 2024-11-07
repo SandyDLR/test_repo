@@ -1,4 +1,4 @@
-es_419:
+es-co:
   inbox: {
     one: 'un mensaje',
     other: '%{count} mensajes'
