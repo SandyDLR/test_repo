@@ -1,15 +1,15 @@
-es-co:
+pt:
   inbox: {
-    one: 'un mensaje',
-    other: '%{count} mensajes'
+    one: 'uma mensagem',
+    other: '%{count} mensagens'
   }
   home:
   header:
     tv: "TV Global"
-    movies: Películas
+    movies: Filmes
     music: Música
-    news: Noticias
-    genre: Géneros
+    news: Notícias
+    genre: Gêneros
     artist: Artistas
     country: Países
     explore: Explorar
