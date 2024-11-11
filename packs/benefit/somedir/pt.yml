@@ -1,6 +1,6 @@
-pt:
+pt_BR:
   inbox: {
-    one: 'uma mensagem',
+    one: 'uma mensage_pt_br',
     other: '%{count} mensagens'
   }
   home:
