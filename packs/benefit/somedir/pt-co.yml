@@ -1,4 +1,4 @@
-pt_CO:
+pt-CO:
   inbox: {
     one: 'uma mensage_pt_br en transifex',
     other: '%{count} mensagens'
