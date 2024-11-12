@@ -1,4 +1,4 @@
-pt-CO:
+pt_CO:
   inbox: {
     one: 'uma mensage_pt_br en transifex',
     other: '%{count} mensagens'
@@ -9,8 +9,8 @@ pt-CO:
     movies: 'Filmes'
     music: 'Música'
     news: 'Notícias'
-    genre: 
-    artist: 
-    country: 
-    explore: 
-    celebrities: 
+    genre: 'Gêneros'
+    artist: 'Artistas'
+    country: 'Países'
+    explore: 'Explorar editado en pt-co en Transifex'
+    celebrities: 'Celebridades'
