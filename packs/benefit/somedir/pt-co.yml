@@ -1,4 +1,4 @@
-pt-co:
+pt_CO:
   inbox: {
     one: 'uma mensage_pt_br',
     other: '%{count} mensagens'
