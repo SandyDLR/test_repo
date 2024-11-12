@@ -5,12 +5,12 @@ es:
   }
   home:
   header:
-    tv: "TV Global"
-    movies: Películas
-    music: Música
-    news: Noticias
-    genre: Géneros
-    artist: Artistas
-    country: Países
-    explore: Explorar
-    celebrities: Celebridades
+    tv: 'TV Global'
+    movies: 'Películas'
+    music: 'Música'
+    news: 'Noticias'
+    genre: 'Géneros'
+    artist: 'Artistas'
+    country: 'Países'
+    explore: 'Explorar'
+    celebrities: 'Celebridades'
