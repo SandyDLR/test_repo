@@ -5,12 +5,12 @@ pt_CO:
   }
   home:
   header:
-    tv: "TV Global"
-    movies: Filmes
-    music: Música
-    news: Notícias
-    genre: Gêneros
-    artist: Artistas
-    country: Países
-    explore: Explorar
-    celebrities: Celebridades
+    tv: 'TV Global'
+    movies: 'Filmes'
+    music: 'Música'
+    news: 'Notícias'
+    genre: 
+    artist: 
+    country: 
+    explore: 
+    celebrities: 
